@@ -50,3 +50,7 @@ html,body{
           rgba(17, 30, 50, 0.38) 104.96%
         );
       }
+
+      .homepage{
+        background: url("../src/assets/Images/bghome.svg");
+      }
